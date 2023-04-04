@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(134, 134, 134, 0.527);
+}
+
+
+.date-picker {
+    width: 800px;
+}
+
+.react-datepicker__day--selected {
+    background-color: aqua;
+    color: black;
+}
+
+.react-datepicker__day--selected:hover {
+    background-color: rgba(5, 197, 197, 0.555);
+    color: black;
+}
+
+.react-datepicker__time-list-item--selected {
+    background-color: aqua !important;
+    color: black !important;
+}
+
+.react-datepicker__time-list-item--selected:hover {
+    background-color: rgba(5, 197, 197, 0.555) !important;
+    color: black !important;
+}
